@@ -1,0 +1,1 @@
+This project aims to create algorithms for recognizing different types of food and vegetables using machine learning techniques. Utilizing image processing and computer vision tools, the system enhances detection accuracy, providing a practical solution for various applications.
